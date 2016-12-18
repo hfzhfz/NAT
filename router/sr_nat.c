@@ -8,7 +8,7 @@
 #include <time.h>
 #include <string.h>
 #include "sr_protocol.h"
-#include "sr_router.h" /*FIXME: include loop?*/
+#include "sr_router.h" 
 
 /* Assumes an available port can always be found. */
 /* Port number will be in NBO */
